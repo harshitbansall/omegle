@@ -1,1 +1,1 @@
-web: gunicorn PopcornTimes.wsgi
+web: gunicorn chatapp.asgi
